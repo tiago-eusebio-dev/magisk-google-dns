@@ -41,10 +41,10 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "******************************"
-  ui_print "       Mgisk Google DNS       "
-  ui_print "          tfae @ XDA          "
-  ui_print "******************************"
+  ui_print "*******************************"
+  ui_print "       Magisk Google DNS       "
+  ui_print "           tfae @ XDA          "
+  ui_print "*******************************"
 }
 
 ##########################################################################################
