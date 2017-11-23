@@ -1,5 +1,5 @@
 ## Description
-This module makes your device to use Google's DNS servers (8.8.8.8 and 4.4.4.4) instead of the provided by the ISP or Access Point.
+This module makes your device to use Google's DNS servers (8.8.8.8 and 8.8.4.4) instead of the provided by the ISP or Access Point.
 
 #### Current Version
 1.0

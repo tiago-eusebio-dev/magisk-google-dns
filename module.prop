@@ -3,5 +3,5 @@ name=Magisk Google DNS
 version=v1.0
 versionCode=1
 author=tfae
-description=Use Google's DNS servers (8.8.8.8 and 4.4.4.4) instead of the provided by the ISP or Access Point
+description=Use Google's DNS servers (8.8.8.8 and 8.8.4.4) instead of the provided by the ISP or Access Point
 template=1400
