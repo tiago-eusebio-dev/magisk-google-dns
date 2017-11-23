@@ -1,0 +1,5 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+net.dns1=8.8.8.8
+net.dns2=8.8.4.4
