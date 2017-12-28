@@ -26,13 +26,13 @@
 AUTOMOUNT=false
 
 # Set to true if you need to load system.prop
-PROPFILE=true
+PROPFILE=false
 
 # Set to true if you need post-fs-data script
 POSTFSDATA=false
 
 # Set to true if you need late_start service script
-LATESTARTSERVICE=false
+LATESTARTSERVICE=true
 
 ##########################################################################################
 # Installation Message
