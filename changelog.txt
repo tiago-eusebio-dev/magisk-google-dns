@@ -1,2 +1,8 @@
+v2.0
+    - Use iptables rules (works on cellular networks)
+
+v1.1
+    - Disable not needed Magic Mount (fix bootloops)
+
 v1.0
-    -Initial release
+    - Initial release
