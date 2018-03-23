@@ -2,7 +2,7 @@
 This module makes your device to use Google's DNS servers (8.8.8.8) instead of the provided by the ISP or Access Point.
 
 It is not guaranteed to work on cellular networks on all devices. Some users/testers say yes, others say that it doesn't.
-On Wi-Fi it always work though.
+On Wi-Fi it always works though.
 
 If you know how to make it always work on cellular networks and want to contribute, please do!
 
