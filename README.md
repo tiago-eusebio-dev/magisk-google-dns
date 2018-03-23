@@ -7,12 +7,13 @@ On Wi-Fi it always work though.
 If you know how to make it always work on cellular networks and want to contribute, please do!
 
 #### Current Version
-2.1
+2.1.1
 
 #### Changelog
 
+* 2.1.1 (2018-03-23) - Added some clarification about cellular networks and credits to @teohhanhui
 * 2.1 (2017-12-29) - Update to Magisk template v1500
-* 2.0 (2017-12-28) - Use iptables rules (works on cellular networks on some devices)
+* 2.0 (2017-12-28) - Use iptables rules (works on cellular networks on some devices) [thanks @teohhanhui]
 * 1.1 (2017-12-11) - Disable not needed Magic Mount (fix bootloops)
 * 1.0 (2017-11-23) - Initial release
 
