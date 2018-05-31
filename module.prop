@@ -1,7 +1,7 @@
 id=magisk-gogle-dns
 name=Magisk Google DNS
-version=v2.1.1
-versionCode=5
-author=tfae & teohhanhui
-description=Use Google's DNS servers (8.8.8.8) instead of the provided by the ISP or Access Point
+version=v2.1.2
+versionCode=6
+author=tfae
+description=Use Google's DNS servers (8.8.8.8) instead of the provided by the ISP
 minMagisk=1500
