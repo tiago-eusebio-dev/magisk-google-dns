@@ -42,4 +42,4 @@ If you know how to make it always work on cellular networks and want to contribu
 * <a href="https://forum.xda-developers.com/member.php?u=5332893">Rom@xda</a> for the IPv6 idea
 
 
-Copyright (C) 2017-2018 <a href="https://forum.xda-developers.com/member.php?u=4470081">tfae</a> (tfaeusebio@gmail.com)
+Copyright (C) 2017-2018 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
