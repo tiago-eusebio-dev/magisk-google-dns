@@ -25,8 +25,6 @@ setprop net.rmnet1.dns2 8.8.4.4
 setprop net.pdpbr1.dns1 8.8.8.8
 setprop net.pdpbr1.dns2 8.8.4.4
 
-setprop 2001:4860:4860::8888
-setprop 2001:4860:4860::8844
 
 
 

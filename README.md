@@ -4,8 +4,6 @@ Magisk Google DNS
 This module makes your device to use Google's DNS servers instead of the provided by the ISP:
 * 8.8.8.8
 * 8.8.4.4
-* 2001:4860:4860::8888
-* 2001:4860:4860::8844
 
 
 It is not guaranteed to work on cellular networks on all devices. Some users/testers say yes, others say that it doesn't.
@@ -15,6 +13,7 @@ If you know how to make it always work on cellular networks and want to contribu
 
 
 ## Changelog
+* v10    (20.11.2018) - Remove IPv6: it is not supported on this model
 * v9     (18.11.2018) - Add IPv6
 * v8     (18.11.2018) - Make the version to be the same as the versionCode
 * v2.1.3 (05.09.2018) - Update to Magisk v17000 template
