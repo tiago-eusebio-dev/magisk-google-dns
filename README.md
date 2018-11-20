@@ -13,7 +13,7 @@ If you know how to make it always work on cellular networks and want to contribu
 
 
 ## Changelog
-* v10    (20.11.2018) - Remove IPv6: it is not supported on this model
+* v10    (20.11.2018) - Remove IPv6: it is not supported on this module
 * v9     (18.11.2018) - Add IPv6
 * v8     (18.11.2018) - Make the version to be the same as the versionCode
 * v2.1.3 (05.09.2018) - Update to Magisk v17000 template
