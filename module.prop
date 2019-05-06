@@ -1,7 +1,6 @@
 id=magisk-google-dns
 name=Magisk Google DNS
-version=v10
-versionCode=10
+version=v11
+versionCode=11
 author=tfae
 description=Use Google's DNS servers instead of the provided by the ISP
-minMagisk=17000

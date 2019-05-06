@@ -13,6 +13,7 @@ If you know how to make it always work on cellular networks and want to contribu
 
 
 ## Changelog
+* v11    (06.05.2019) - Update to Magisk v18100 template
 * v10    (20.11.2018) - Remove IPv6: it is not supported on this module
 * v9     (18.11.2018) - Add IPv6
 * v8     (18.11.2018) - Make the version to be the same as the versionCode
@@ -40,4 +41,4 @@ If you know how to make it always work on cellular networks and want to contribu
 * <a href="https://forum.xda-developers.com/member.php?u=4460571">teohhanhui@xda</a> for the iptables rules
 
 
-Copyright (C) 2017-2018 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
+Copyright (C) 2017-2019 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
